@@ -1,5 +1,5 @@
 const { test, expect } = require('@playwright/test');
-const url = 'http://localhost:5500/';
+const url = 'http://localhost:5500//DevOps-ToDoApp-Lab/';
 
 //Verify if a user can add a task
 test('user can add a task', async ({page}) => {
